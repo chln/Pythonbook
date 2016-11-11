@@ -1,0 +1,3 @@
+s="             fsdkjfdkfk kdf ls   kfjsdlk             "
+s=s.strip()
+结果s就是"fsdkjfdkfk kdf ls   kfjsdlk"前后空格都没了，但中间间隔还保留。
